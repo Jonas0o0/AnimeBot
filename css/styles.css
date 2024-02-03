@@ -93,8 +93,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 60px;
     padding-bottom: 0;
+    margin: 0;
 }
 
 header div.main{
@@ -122,17 +122,24 @@ header span.swap{
     color: #fff1f5;
     font-size: 15px;
     margin: 0;
+    text-align: center;
 }
 
 header div.buttons{
-    margin-top: 20px;
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
 header div.buttons a{
     background-color: #ac3242;
     padding: 5px 10px;
     border-radius: 3px;
-    margin: 0px 10px;
+    margin: 10px;
     color: #fff;
     text-decoration: none;
     transition: .3s ease-in;
@@ -175,6 +182,10 @@ footer{
 footer a{
     color: #fff;
     font-size: 20px;
+}
+
+html{
+    background-color: #000000;
 }
 
 @media screen and (max-width: 1200px) {
@@ -330,9 +341,7 @@ footer a{
 }
 
 @media screen and (max-width: 900px) {
-    body{
-        background-color: #bcb53a;
-    }
+
     header div.main img{
         border-radius: 500px;
         width: 300px;
