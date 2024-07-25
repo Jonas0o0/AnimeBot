@@ -20,22 +20,22 @@ AnimeBot est un bot Discord puissant et polyvalent conçu pour offrir une expér
 Pour ajouter AnimeBot à votre serveur Discord, suivez ces étapes simples :
 
 1. Clonez le dépôt :
-```
+```BASH
 git clone https://github.com/yourusername/animebot.git
 cd animebot
 ```
 2. Installez les dépendances :
 Assurez-vous d'avoir Python 3.8+ installé, puis utilisez pip pour installer les dépendances :
-```
+```BASH
 pip install -r requirements.txt
 ```
 3. Configurez le bot :
 Créez un fichier .env à la racine du projet et ajoutez vos variables d'environnement :
-```
+```MAKEFILE
 DISCORD_TOKEN=your_discord_bot_token
 ```
 4. Démarrez le bot :
-```
+```BASH
 python bot.py
 ```
 ## Commandes
