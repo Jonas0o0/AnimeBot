@@ -1,8 +1,7 @@
 
 # Licence Anime Bot
 
-## Copyright
-(c) Jonas0o0 2024
+## Copyright (c) Jonas0o0 2024
 
 ## Préambule
 Cette licence ("Licence") est un accord juridique entre vous ("Utilisateur") et le titulaire des droits d'auteur ("Auteur") de Anime Bot ("Logiciel"). En utilisant, copiant, modifiant, ou redistribuant ce Logiciel, l'Utilisateur accepte les termes de cette Licence. Toute utilisation du Logiciel est soumise aux termes de cette Licence.
