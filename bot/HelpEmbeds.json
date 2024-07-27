@@ -1,0 +1,125 @@
+{
+    "embeds":[
+        {
+            "title": "Help Anime Commands :",
+            "description": "",
+            "fields": [
+                {
+                    "name": "Anime Search",
+                    "value": " - Explore a vast world of anime using the </anime search:1249413674939056220> command to search for anime based on name : </anime search by_name:1249413674939056220> or genres : </anime search by_genres:1249413674939056220>.",
+                    "inline": false
+                },
+                {
+                    "name": "Anime Recommendations",
+                    "value": " - Receive personalized anime recommendations using the </anime recommendation:1249413674939056220> command.",
+                    "inline": false
+                },
+                {
+                    "name": "Popular Anime",
+                    "value": " - Discover the most popular anime of the moment with the </anime popular:1249413674939056220> command.",
+                    "inline": false
+                },
+                {
+                    "name": "Detailed Information",
+                    "value": " - Get comprehensive information about a specific anime with the </anime info:1249413674939056220> command.",
+                    "inline": false
+                },
+                {
+                    "name": "Random Anime",
+                    "value": " - Get surprised with a random anime to watch using the </anime random:1249413674939056220> command.",
+                    "inline": false
+                },
+                {
+                    "name": "Schedule Anime",
+                    "value": " - Get list of anime tha comes out every week using the </anime schedules:1249413674939056220> command.",
+                    "inline": false
+                }
+            ],
+            "footer" : {
+                "text": "Use the buttons below to navigate"
+            }
+        },
+        {
+            "title": "Help Music Commands :",
+            "description": "",
+            "fields": [
+                {
+                    "name": "Play a song with the given query",
+                    "value": " - </music play:1260202505938407515>.",
+                    "inline": false
+                },
+                {
+                    "name": "Skip the current song",
+                    "value": " - </music skip:1260202505938407515>.",
+                    "inline": false
+                },
+                {
+                    "name": "Resume the Player depending on its current state",
+                    "value": " - </music resume:1260202505938407515>.",
+                    "inline": false
+                },
+                {
+                    "name": "Pause the Player depending on its current state",
+                    "value": " - </music pause:1260202505938407515>.",
+                    "inline": false
+                },
+                {
+                    "name": "Change the 'Loop Mode' of the player",
+                    "value": " - </music loop:1260202505938407515>.",
+                    "inline": false
+                },
+                {
+                    "name": "Change the volume of the player",
+                    "value": " - </music volume:1260202505938407515>.",
+                    "inline": false
+                },
+                {
+                    "name": "Disconnect the Player",
+                    "value": " - </music disconnect:1260202505938407515>.",
+                    "inline": false
+                }
+            ],
+            "footer" : {
+                "text": "Use the buttons below to navigate"
+            }
+        },
+        {
+            "title": "Help Bot Commands :",
+            "description": "",
+            "fields": [
+                {
+                    "name": "Bot Information",
+                    "value": " - The </bot info:1249816990428696617> command provides you with all the essential information about AnimeBot. AnimeBot is your ultimate companion for exploring the world of anime. Whether you're a seasoned anime enthusiast or a newcomer to this captivating universe, AnimeBot is here to help you discover, search, and explore a multitude of exciting anime.",
+                    "inline": false
+                }
+            ],
+            "footer" : {
+                "text": "Use the buttons below to navigate"
+            }
+        },
+        {
+            "title": "Help Support Commands :",
+            "description": "",
+            "fields": [
+                {
+                    "name": "Suggestion",
+                    "value": " - Use the </support suggestion:1169748403081728113> command to send us your thoughts and ideas. We value your input and look forward to hearing your suggestions for making AnimeBot even better.",
+                    "inline": false
+                },
+                {
+                    "name": "Bug Report",
+                    "value": " - If you come across any problems or discover a bug, please use the </support bug_report:1169748403081728113> command to report the issue. Your bug reports help us identify and fix issues, making AnimeBot more reliable.",
+                    "inline": false
+                },
+                {
+                    "name": "Assistance",
+                    "value": " - Use the </support assistance:1169748403081728113> command to access technical assistance and support. Our Discord server is the place to ask questions, seek help, engage with the community, and interact with our support team. We're here to assist you and address any concerns you may have. Join our vibrant community now !",
+                    "inline": false
+                }
+            ],
+            "footer" : {
+                "text": "Use the buttons below to navigate"
+            }
+        }
+    ]
+}
