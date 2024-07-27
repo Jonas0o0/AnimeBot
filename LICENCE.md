@@ -57,4 +57,4 @@ Cette Licence est effective jusqu'à sa résiliation. En cas de violation de l'u
 Cette Licence est régie par les lois en vigueur dans le pays de résidence de l'Auteur, sans égard aux conflits de lois.
 
 ## Contactez-Nous
-Si vous avez des questions ou des préoccupations concernant cette Politique de Confidentialité, veuillez nous contacter via notre serveur Discord ou en utilisant le lien suivant : [Serveur de Support AnimeBot](https://discord.gg/UBs3Uu2bxw).
+Si vous avez des questions ou des préoccupations concernant cette licence, veuillez nous contacter via notre serveur Discord ou en utilisant le lien suivant : [Serveur de Support AnimeBot](https://discord.gg/UBs3Uu2bxw).
