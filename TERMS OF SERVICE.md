@@ -23,7 +23,7 @@ Nous nous réservons le droit de modifier ces Termes de Service à tout moment. 
 
 ## 5. Confidentialité
 
-AnimeBot respecte votre vie privée. Pour plus d'informations sur la manière dont nous collectons, utilisons et protégeons vos données, veuillez consulter notre Politique de [Confidentialité](https://github.com/Jonas0o0/AnimeBot/blob/924254db9e9c131f94bfa9d9a67cf0ba7b9a2853/PRIVACY%20POLICY.md).
+AnimeBot respecte votre vie privée. Pour plus d'informations sur la manière dont nous collectons, utilisons et protégeons vos données, veuillez consulter notre [Politique de Confidentialité](https://github.com/Jonas0o0/AnimeBot/blob/924254db9e9c131f94bfa9d9a67cf0ba7b9a2853/PRIVACY%20POLICY.md).
 
 ## 6. Comportement et Abus
 
